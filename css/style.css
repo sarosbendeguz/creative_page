@@ -15,7 +15,7 @@
  font-style: normal;
 }
 @font-face {
- font-family: 'open_sansregular';
+ font-family: 'trattatello';
  src: url('../fonts/opensans-regular-webfont.eot');
  src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/opensans-regular-webfont.woff2') format('woff2'), url('../fonts/opensans-regular-webfont.woff') format('woff'), url('../fonts/opensans-regular-webfont.ttf') format('truetype'), url('../fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
  font-weight: normal;
@@ -125,7 +125,7 @@ color: #FFF;
 	background-repeat:no-repeat;
 }
 p {
-	font-size:13px;
+	font-size:15px;
 	color:#666;
 	font-weight:bolder;
 	line-height:25px;
@@ -405,7 +405,7 @@ ul.nav li.active a:before {
 }
 .heading p {
 	padding:20px 0px;
-	font-size:13px;
+	font-size:15px;
 	font-weight:bolder;
 	color:#555;
 }
@@ -417,7 +417,7 @@ ul.nav li.active a:before {
 }
 .ab-sec p {
 	padding:10px 0px;
-	font-size:13px;
+	font-size:15px;
 }
 /*Background-stylesheets-include-here*/
 .bg-sec {
@@ -1116,7 +1116,7 @@ textarea.form-control {
 /*Full-screen-menu-stylesheet-include-here*/
 .top-animate {
   background: #ADC5B7 !important;
-  top: 13px !important;
+  top: 15px !important;
   -webkit-transform: rotate(45deg);
   /* Chrome, Safari, Opera */
   transform: rotate(45deg);
@@ -1126,7 +1126,7 @@ textarea.form-control {
 }
 .bottom-animate {
   background: #ADC5B7 !important;
-  top: 13px !important;
+  top: 15px !important;
   -webkit-transform: rotate(-225deg);
   /* Chrome, Safari, Opera */
   transform: rotate(-225deg);
@@ -1143,7 +1143,7 @@ textarea.form-control {
   top: 5px;
 }
 .mid-menu {
-  top: 13px;
+  top: 15px;
 }
 .bottom-menu {
   top: 21px;
